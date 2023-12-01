@@ -19,7 +19,7 @@ if app_mode == "Home":
     nama = "Dwi Maharani Purwati"
     nim = 223307069
     st.write("Halo, nama saya {}.".format(nama)," dengan nim {}".format(nim), "kelas 3C")
-    st.write("Pada praktikum no 11, saya diminta untuk mengembangkan website machine learning berdasarkan praktikum nomor 11 sesuai kreatifitas saya dan Deploy aplikasi web machine learning tersebut secara online.")
+    st.write("Pada praktikum no 11, saya diminta untuk mengembangkan website machine learning berdasarkan praktikum nomor 11 sesuai kreatifitas saya dan Deploy aplikasi web machine learning tersebut secara online dan melakukan Deploy aplikasi web machine learning tersebut secara online.")
     st.write("Pada praktikum nomer 11, dibuat sebuah machine learning yang merupakan aplikasi web sederhana menggunakan Streamlit untuk melakukan prediksi harga mobil berdasarkan model yang telah dipelajari sebelumnya.")
     
 elif app_mode == 'Car Price':    
