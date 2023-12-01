@@ -1,0 +1,32 @@
+
+Streamlit adalah sebuah framework open-source yang memudahkan pengembang untuk membuat aplikasi web interaktif dengan cepat menggunakan bahasa pemrograman Python. Diciptakan dengan tujuan untuk mempermudah proses pengembangan aplikasi data science, Streamlit memungkinkan pengguna untuk membuat antarmuka pengguna (UI) dengan sedikit usaha dan tanpa memerlukan pengetahuan mendalam tentang pengembangan web.
+
+Berikut adalah beberapa fitur utama dari Streamlit:
+
+Sederhana dan Mudah Dipelajari:
+
+Streamlit didesain agar mudah dipelajari oleh pengembang Python tanpa pengalaman web sebelumnya.
+Pengguna dapat membuat aplikasi web dengan beberapa baris kode, mengurangi kompleksitas pengembangan.
+Interaktif dan Real-time:
+
+Memungkinkan pengguna untuk membuat aplikasi interaktif dengan mudah. Perubahan pada UI dapat dilihat secara real-time tanpa perlu me-refresh halaman.
+Dukungan untuk berbagai jenis widget interaktif seperti tombol, slider, input teks, dan grafik interaktif.
+Dukungan untuk Data Science:
+
+Dirancang khusus untuk mendukung aplikasi di bidang data science dan machine learning.
+Integrasi yang baik dengan pustaka populer seperti Pandas, Matplotlib, Plotly, dan sebagainya.
+Ringan dan Cepat:
+
+Streamlit diketahui karena kinerjanya yang baik dan waktu respons yang cepat.
+Dukungan built-in untuk caching membantu meningkatkan performa dengan menyimpan hasil perhitungan yang sudah dihitung sebelumnya.
+Deployment Mudah:
+
+Memiliki dukungan yang baik untuk proses deployment. Aplikasi Streamlit dapat dengan mudah di-deploy di berbagai platform seperti Heroku, AWS, atau bahkan sebagai container Docker.
+Open Source dan Komunitas yang Aktif:
+
+Streamlit bersifat open source, sehingga pengembang dapat berkontribusi pada pengembangan dan pemeliharaan framework ini.
+Komunitas yang aktif memberikan dukungan dan sumber daya untuk membantu pengguna baru.
+Adaptasi Luas:
+
+Meskipun awalnya diciptakan untuk data science, Streamlit juga digunakan untuk pembuatan aplikasi web lainnya karena kemudahan penggunaannya.
+Dengan semua fitur ini, Streamlit telah menjadi pilihan populer di kalangan pengembang Python yang ingin membuat aplikasi web interaktif dengan cepat dan efisien. Kesederhanaan dan kecepatan pengembangan membuatnya ideal untuk proyek-proyek kecil hingga menengah yang membutuhkan antarmuka pengguna yang efektif.
